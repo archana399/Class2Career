@@ -8,13 +8,13 @@ Class2Career is a student-focused web platform that brings academic resources an
 
 ## ✨ Features
 
-- 📚 Access academic learning resources
-- 🎯 Explore career paths and required skills
-- 📄 Resume-building resources
-- 💼 Placement preparation resources
-- 🎤 Interview preparation resources
-- 🔎 Easy resource discovery and navigation
-- 📱 Responsive and user-friendly interface
+-  Access academic learning resources
+-  Explore career paths and required skills
+-  Resume-building resources
+-  Placement preparation resources
+-  Interview preparation resources
+-  Easy resource discovery and navigation
+-  Responsive and user-friendly interface
 
 ## 🛠️ Technologies Used
 
